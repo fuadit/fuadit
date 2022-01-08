@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#Fuad Mehawish
+Full-stack software engineer (PHP, JS, Android, Laravel, React.js) experienced in working with local companies, small teams, and clients over the world, looking for new challenges to build international projects.
+
 <!--
 **fuad-works/fuad-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
