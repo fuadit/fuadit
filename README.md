@@ -6,8 +6,8 @@ Full-stack software engineer (PHP, JS, Android, Laravel, React.js) experienced i
 ## 🔭 I’m currently working on 
   Ecommerce Project (Laraven & React.js)
   
-## 🌱 I’m currently learning 
-    Kotlen
+## 🌱 I’m currently learning
+  Kotlen programming language
     
 
 
