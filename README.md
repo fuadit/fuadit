@@ -7,7 +7,7 @@ Full-stack software engineer (PHP, JS, Android, Laravel, React.js) experienced i
   Ecommerce Project (Laravel & React.js)
   
 ### 🌱 I’m currently learning
-  Kotlin programming language
+  Kotlin programming language<br/>
   Flutter development
     
 
