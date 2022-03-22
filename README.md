@@ -8,6 +8,7 @@ Full-stack software engineer (PHP, JS, Android, Laravel, React.js) experienced i
   
 ### 🌱 I’m currently learning
   Kotlin programming language
+  Flutter development
     
 
 
