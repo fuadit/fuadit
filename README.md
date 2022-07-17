@@ -6,7 +6,7 @@
 Full-stack software engineer (PHP, JS, Android, Laravel, React.js) experienced in working with local companies, small teams, and clients over the world, looking for new challenges to build international projects.
 
 ### 🔭 I’m currently working on 
-  Ecommerce Project (Laravel & React.js)
+  Modularizing ERP System for Social Care Society (Laravel)
   
 ### 🌱 I’m currently learning
   Kotlin programming language<br/>
