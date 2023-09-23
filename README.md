@@ -10,5 +10,4 @@ Software engineer (PHP, JS, Android, Laravel, VueJs) experienced in working with
 Instant messenger (NodeJs)
   
 ### 🌱 I’m currently learning
-  VueJs 
 React
