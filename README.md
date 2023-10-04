@@ -2,7 +2,7 @@
 ### Marhaba 👋
 
 ## I am Fuad Mehawish
-Software engineer (PHP, JS, Android, Laravel, VueJs) experienced in working with local companies, small teams, and clients over the world, looking for new challenges to build international projects.
+Software engineer (PHP, JS, Android, Laravel, React) experienced in working with local companies, small teams, and clients over the world, looking for new challenges to build international projects.
 
 ### 🔭 I’m currently working on 
   Full stack (Laravel + ReactJs) <br>
